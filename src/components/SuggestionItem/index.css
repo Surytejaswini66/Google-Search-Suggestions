@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.suggestion-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid #bfbfbf;
+  cursor: pointer;
+}
+
+.suggestion-text {
+  margin: 0;
+  color: #475569;
+}
+
+.arrow-icon {
+  width: 20px;
+  cursor: pointer;
+}
